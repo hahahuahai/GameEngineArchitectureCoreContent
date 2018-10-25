@@ -101,3 +101,10 @@
 - **Crystal Space**：一个含扩充模组架构的游戏引擎。
 - **Torque**：并非一般意义上的开源项目。可能因其商业授权比较便宜并提供源代码，而产生这种错觉。
 - **Irrlicht**：一个用C++书写的高性能实时的3D引擎。具有高效、实时、跨平台的特点。比较适合引擎学习入门。
+
+### 运行时引擎架构
+
+先上一张图，包含整个运行时引擎架构。(暂时先用英文版高清图，中文版还没找到，等找到之后替换掉)
+
+![运行时引擎架构](https://github.com/hahahuahai/GameEngineArchitectureCoreContent/blob/master/media/fig-runtime-arch.jpg)
+
