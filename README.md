@@ -1,4 +1,7 @@
 # 《游戏引擎架构》的核心内容提炼
+
+![](https://github.com/hahahuahai/GameEngineArchitectureCoreContent/blob/master/media/Cover.jpg)
+
 ## 目录（将会按章节进行更新）
 
 **第一部分  基础**
