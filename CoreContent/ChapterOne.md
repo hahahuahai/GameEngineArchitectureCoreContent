@@ -108,3 +108,5 @@
 
 ![运行时引擎架构](https://github.com/hahahuahai/GameEngineArchitectureCoreContent/blob/master/media/fig-runtime-arch.jpg)
 
+<center>图注：运行时引擎架构</center>
+
