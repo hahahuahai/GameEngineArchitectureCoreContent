@@ -14,12 +14,12 @@
 
 ### 面向对象编程
 
-参考书：![《冒号课堂：编程范式与OOP思想》](https://book.douban.com/subject/4031906/)
+参考书：[《冒号课堂：编程范式与OOP思想》](https://book.douban.com/subject/4031906/)
 
 ### 编码标准
 
-![Google的C++代码规范](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/)
+[Google的C++代码规范](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/)
 
 ### C++基本语法
 
-参考书：![《C++ Primer 中文版（第5版）》](https://book.douban.com/subject/25708312/)
+参考书：[《C++ Primer 中文版（第5版）》](https://book.douban.com/subject/25708312/)
