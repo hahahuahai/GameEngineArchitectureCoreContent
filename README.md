@@ -7,7 +7,7 @@
 **第一部分  基础**
 
 * [第1章  导论](https://github.com/hahahuahai/GameEngineArchitectureCoreContent/blob/master/CoreContent/ChapterOne.md)
-* 第2章 专业工具
+* [第2章 专业工具](https://github.com/hahahuahai/GameEngineArchitectureCoreContent/blob/master/CoreContent/ChapterTwo.md)
 * 第3章 游戏软件工程基础
 * 第4章 游戏所需的三维数学
 
