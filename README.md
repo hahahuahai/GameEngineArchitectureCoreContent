@@ -9,7 +9,7 @@
 * [第1章  导论](https://github.com/hahahuahai/GameEngineArchitectureCoreContent/blob/master/CoreContent/ChapterOne.md)
 * [第2章 专业工具](https://github.com/hahahuahai/GameEngineArchitectureCoreContent/blob/master/CoreContent/ChapterTwo.md)
 * [第3章 游戏软件工程基础](https://github.com/hahahuahai/GameEngineArchitectureCoreContent/blob/master/CoreContent/ChapterThree.md)
-* 第4章 游戏所需的三维数学
+* [第4章 游戏所需的三维数学](https://github.com/hahahuahai/GameEngineArchitectureCoreContent/blob/master/CoreContent/ChapterFour.md)
 
 
 **第二部分  低阶引擎系统**
